@@ -7,7 +7,7 @@ const RESOURCES = {
 "index.html": "f72adc8fae15d0721603b413d10795a8",
 "/": "f72adc8fae15d0721603b413d10795a8",
 "apple-touch-icon.png": "db031ac4608057414b897201a1aecccd",
-"main.dart.js": "fed123bea4cf53693e0b7dac2aa9b1a4",
+"main.dart.js": "6707763a8e46d2a1718560bd88b7fa27",
 "favicon.png": "db031ac4608057414b897201a1aecccd",
 "icons/Icon-192.png": "9c284c3b2d3df53b3b996634f98faf75",
 "icons/Icon-512.png": "eb3b9aab23a2a92ab4143a46a1062d13",
@@ -39,8 +39,8 @@ const RESOURCES = {
 "assets/assets/backgroundImage.png": "cb4f162847899c1f32657150f3709869",
 "assets/assets/logo.png": "f236516f21c0f6cdf2bbd4b60310c766",
 "assets/assets/sinproject.png": "46da728a43b0616af5e3c6d56841cdd8",
-"assets/assets/translations/ja.json": "2d24480e27ed504143793390e8e70dee",
-"assets/assets/translations/en.json": "74032da8fd4e030a098e5d1a1c107c0e"
+"assets/assets/translations/ja.json": "04c7a9879a7d1c3d33043c2f2050e6a7",
+"assets/assets/translations/en.json": "44d0a63136ce9ff6e513f68b2cd7fcf0"
 };
 
 // The application shell files that are downloaded before a service worker can

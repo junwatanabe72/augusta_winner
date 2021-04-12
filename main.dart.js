@@ -37900,7 +37900,7 @@ M.FU.prototype={
 F:function(a,b){return this.f?new M.a_o(this).$0():new M.a_s(this,b).$0()}}
 M.a_s.prototype={
 $0:function(){var s=this.a
-return s.Q?T.hi(new E.Jn(null),null,null):Q.WV("text",!0,C.m,45,!0,!0,L.ez(this.b,C.c5,t.mi).b.h(0,"start"),s.y,8,200)},
+return s.Q?T.hi(new E.Jn(null),null,null):Q.WV("text",!0,C.m,38,!0,!0,L.ez(this.b,C.c5,t.mi).b.h(0,"start"),s.y,8,200)},
 $S:69}
 M.a_o.prototype={
 $0:function(){var s=this.a,r=s.x
@@ -37915,7 +37915,7 @@ $S:214}
 M.a_q.prototype={
 $1:function(a){var s=null,r=this.a,q=$.TB.h(0,r.c[r.d])
 r=this.b+H.c(q.h(0,"country"))+".png"
-return T.lo(H.a([D.WX(C.kw,M.aY(s,s,C.n,s,s,s,s,s,s,s,s,s,s),!1,75,150,1,s,r),R.j9(C.du,C.cO,C.cL,50,1.8,!1,q.h(0,"winner"))],t._),C.a4,C.Ah)},
+return T.lo(H.a([D.WX(C.kw,M.aY(s,s,C.n,s,s,s,s,s,s,s,s,s,s),!1,100,200,1,s,r),R.j9(C.du,C.cO,C.cL,50,1.8,!1,q.h(0,"winner"))],t._),C.a4,C.Ah)},
 $S:34}
 O.H3.prototype={
 F:function(a,b){var s,r=null,q=this.c,p="AnswerIs.correct".split(".")[1],o=q==null?p==null:q===p
@@ -37932,11 +37932,11 @@ return T.hi(M.aY(r,T.iE(C.bL,H.a([M.aY(r,r,C.n,C.m,r,r,r,r,r,r,r,r,r),new T.ep(C
 F.aaw.prototype={
 $0:function(){var s=null,r=this.a
 if(r.d.a.a==="")return M.aY(s,s,C.n,s,s,s,s,s,s,s,s,s,s)
-return Q.WV("text",!1,C.m,45,!0,!0,L.ez(this.b,C.c5,t.mi).b.h(0,"play"),r.y,8,300)},
+return Q.WV("text",!1,C.m,38,!0,!0,L.ez(this.b,C.c5,t.mi).b.h(0,"play"),r.y,8,300)},
 $S:69}
 F.aax.prototype={
 $1$flex:function(a){var s=this.a
-return T.c3(T.fK(H.a([new R.LI(1,null),T.c3(R.j9(C.c2,C.z,C.cL,45,1,!0,"appName"),1),T.c3(new K.EC(s.d,s.x,null),1),T.c3(this.b.$0(),3)],t._),C.a4,C.aB,C.aF),a)},
+return T.c3(T.fK(H.a([new R.LI(1,null),T.c3(R.j9(C.c2,C.z,C.cL,43,1,!0,"appName"),1),T.c3(new K.EC(s.d,s.x,null),1),T.c3(this.b.$0(),3)],t._),C.a4,C.aB,C.aF),a)},
 $0:function(){return this.$1$flex(null)},
 $S:74}
 F.aav.prototype={
