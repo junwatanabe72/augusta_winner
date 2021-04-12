@@ -37915,7 +37915,7 @@ $S:214}
 M.a_q.prototype={
 $1:function(a){var s=null,r=this.a,q=$.TB.h(0,r.c[r.d])
 r=this.b+H.c(q.h(0,"country"))+".png"
-return T.lo(H.a([D.WX(C.kw,M.aY(s,s,C.n,s,s,s,s,s,s,s,s,s,s),!1,100,200,1,s,r),R.j9(C.du,C.cO,C.cL,50,1.8,!1,q.h(0,"winner"))],t._),C.a4,C.Ah)},
+return T.lo(H.a([D.WX(C.kw,M.aY(s,s,C.n,s,s,s,s,s,s,s,s,s,s),!1,65,130,1,s,r),R.j9(C.du,C.cO,C.cL,50,1.8,!1,q.h(0,"winner"))],t._),C.a4,C.Ah)},
 $S:34}
 O.H3.prototype={
 F:function(a,b){var s,r=null,q=this.c,p="AnswerIs.correct".split(".")[1],o=q==null?p==null:q===p
